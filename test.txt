@@ -1,3 +1,7 @@
 this is my first git
+<<<<<<< HEAD
 
 updating from windows direcctly
+=======
+updating from browser
+>>>>>>> 335009a78bc348df60a9d69207c3e9ae4c21b6bd
